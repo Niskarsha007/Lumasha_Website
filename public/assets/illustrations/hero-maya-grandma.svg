@@ -1,0 +1,23 @@
+<svg width="420" height="320" viewBox="0 0 420 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="320" rx="36" fill="#FFF5D9" />
+  <circle cx="130" cy="140" r="70" fill="#FF9AA2" opacity="0.35" />
+  <circle cx="260" cy="160" r="90" fill="#B3F1E5" opacity="0.4" />
+  <path d="M120 210c20-18 80-22 110-6s66 28 80 4" stroke="#1F2937" stroke-width="6" stroke-linecap="round" opacity="0.2" />
+  <g transform="translate(90 80)">
+    <rect x="0" y="40" width="120" height="150" rx="32" fill="#FFE8E0" stroke="#FF9AA2" stroke-width="4" />
+    <circle cx="60" cy="60" r="34" fill="#fff" stroke="#1F2937" stroke-width="4" />
+    <circle cx="48" cy="54" r="6" fill="#1F2937" />
+    <circle cx="72" cy="54" r="6" fill="#1F2937" />
+    <path d="M44 80c10 12 22 12 32 0" stroke="#1F2937" stroke-width="4" stroke-linecap="round" />
+    <rect x="18" y="122" width="84" height="50" rx="16" fill="#FF9AA2" />
+  </g>
+  <g transform="translate(230 70)">
+    <rect x="0" y="54" width="130" height="160" rx="40" fill="#E7D7FF" stroke="#C8B3FF" stroke-width="4" />
+    <circle cx="65" cy="74" r="34" fill="#fff" stroke="#1F2937" stroke-width="4" />
+    <circle cx="52" cy="70" r="6" fill="#1F2937" />
+    <circle cx="80" cy="70" r="6" fill="#1F2937" />
+    <path d="M50 96c12 10 22 10 32 0" stroke="#1F2937" stroke-width="4" stroke-linecap="round" />
+    <rect x="22" y="138" width="86" height="56" rx="20" fill="#B3F1E5" />
+  </g>
+  <text x="210" y="300" text-anchor="middle" font-family="'Baloo 2', 'Poppins', sans-serif" font-size="22" fill="#1F2937">Maya & Grandma explore letters</text>
+</svg>
